@@ -1,3 +1,3 @@
 # Fake-voice-detector
-In this website you can upload video and audio files to detect wether voice is original or duplicate.....
+Deep fake ai voice detector
 https://voice-authenticator--kattishettisanj.replit.app/
